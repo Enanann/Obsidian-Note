@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "e4843a21ee54215f",
+    "type": "split",
+    "children": [
+      {
+        "id": "64fb16f7c1723205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0448f71f0f3d082d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023/September/2023-09-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68cc5ca93c6c1d88",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d2846eaadcaaf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bebf1aec87a4824",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c1e9d80ad0be080",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d98e8fca273d6991",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "298ff6d5fd95fb75",
+    "type": "split",
+    "children": [
+      {
+        "id": "12b2d6e3ffe43fb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71dec65cf3aa3ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2023/September/2023-09-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9323cc04e4a5690f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2023/September/2023-09-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2950c520a53bf36d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb95194f298d893b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2023/September/2023-09-07.md"
+              }
+            }
+          },
+          {
+            "id": "5e284e22ac321df9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "0448f71f0f3d082d",
+  "lastOpenFiles": [
+    "Obsidian-Note/README.md",
+    "Obsidian-Note",
+    "Daily/2023/September/2023-09-07.md",
+    "Daily/2023/September/2023-09-06.md",
+    "Daily/2023/August/2023-08-24.md",
+    "Daily/2023/August/2023-08-19.md",
+    "TEMPLATES/Daily Note.md",
+    "Daily/2023/September",
+    "Workout/Pull Day.md",
+    "Workout/Push day.md",
+    "Workout/Untitled.md",
+    "Japanese/Grammar",
+    "Japanese",
+    "Images",
+    "Workout",
+    "Daily/2023/August/2023-08-18.md",
+    "Images/kita.png",
+    "Books",
+    "nijika.png",
+    "Day Planners/Day Planner-20230818.md",
+    "Day Planners",
+    "Daily/2023/August/2023-08-17.md",
+    "2023-08-18-Friday.md",
+    "2023-08-16-Wednesday.md",
+    "Daily/delete.md",
+    "2023-08-16.md",
+    "Pasted image 20230817222446.png",
+    "TEMPLATES/Pasted image 20230817221942.png",
+    "TEMPLATES",
+    "Daily/2023-08-17.md",
+    "Daily/2023/August",
+    "2023-08-17.md",
+    "Daily/naur.md"
+  ]
+}

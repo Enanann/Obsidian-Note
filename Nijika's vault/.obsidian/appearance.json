@@ -2,6 +2,6 @@
   "accentColor": "",
   "theme": "obsidian",
   "enabledCssSnippets": [],
-  "textFontFamily": "Meiryo",
-  "interfaceFontFamily": "Meiryo"
+  "textFontFamily": "Meiryo,Noto Sans CJK JP",
+  "interfaceFontFamily": "Meiryo,Noto Sans CJK JP"
 }

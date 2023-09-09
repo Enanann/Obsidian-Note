@@ -1,0 +1,50 @@
+# 1 だ
+ 
+- Trong tiếng Nhật không có động từ "to be" giống trong tiếng Anh
+- Tuy nhiên có thể khẳng định "một thứ gì đó là...." bằng cách dùng **「だ」
+- Cách dùng: 
+>[!text]
+> Thêm 「だ」 vào sau danh từ hoặc [[tính từ đuôi na]]
+
+- Ví dụ:
+>一人 + だ = 一人だ 。
+
+
+- Lưu ý rằng:  **một trạng thái có thể được ngụ ý mà không cần dùng da**
+
+- Ví dụ cuộc trò chuyện thường ngày
+> Ａ: 元気？
+>Ｂ: 元気。
+
+# 2 Phủ định
+
+- Trong tiếng Nhật, phủ định và quá khứ đều được thể hiện bằng cách chia từ
+- Để đưa từ về phủ định: 
+>[!text]
+>Thêm 「じゃない」 vào danh từ hoặc [[tính từ đuôi na]]
+>
+
+- Ví dụ: 
+>学生じゃない。
+
+# 3 Quá khứ
+
+- Để đưa về quá khứ:
+>[!text]
+>Thêm 「だった」 vào sau danh từ hoặc [[tính từ đuôi na]]
+
+- Ví dụ
+>友達だった。
+
+
+- Để đưa về quá khứ phủ định
+>[!text]
+>Đưa về dạng phủ định xong thay thế 「い」 của 「じゃない」 thành 「かった」
+
+- Ví dụ
+>元気じゃなかった。
+
+
+
+
+

@@ -4,7 +4,7 @@
 - Tuy nhiên có thể khẳng định "một thứ gì đó là...." bằng cách dùng **「だ」
 - Cách dùng: 
 >[!text]
-> Thêm 「だ」 vào sau danh từ hoặc [[tính từ đuôi na]]
+> Thêm 「だ」 vào sau danh từ hoặc [[Tính từ#Tính từ đuôi な]]
 
 - Ví dụ:
 >一人 + だ = 一人だ 。
@@ -21,7 +21,7 @@
 - Trong tiếng Nhật, phủ định và quá khứ đều được thể hiện bằng cách chia từ
 - Để đưa từ về phủ định: 
 >[!text]
->Thêm 「じゃない」 vào danh từ hoặc [[tính từ đuôi na]]
+>Thêm 「じゃない」 vào danh từ hoặc [[Tính từ#Tính từ đuôi な]]
 >
 
 - Ví dụ: 
@@ -31,7 +31,7 @@
 
 - Để đưa về quá khứ:
 >[!text]
->Thêm 「だった」 vào sau danh từ hoặc [[tính từ đuôi na]]
+>Thêm 「だった」 vào sau danh từ hoặc [[Tính từ#Tính từ đuôi な]]
 
 - Ví dụ
 >友達だった。
@@ -43,7 +43,6 @@
 
 - Ví dụ
 >元気じゃなかった。
-
 
 
 

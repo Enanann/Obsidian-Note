@@ -2,7 +2,8 @@
   "accentColor": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "callout"
+    "callout",
+    "image-bg"
   ],
   "textFontFamily": "Noto Sans CJK JP,Noto Sans JP",
   "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans JP"

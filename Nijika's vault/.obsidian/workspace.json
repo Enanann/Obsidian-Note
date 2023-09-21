@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/6. Thì quá khứ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41bec0393e79f9ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "298ff6d5fd95fb75",
@@ -165,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,16 +166,19 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7bebf1aec87a4824",
+  "active": "55d3f5d8941e0a64",
   "lastOpenFiles": [
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/6. Thì quá khứ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/5. Động từ phủ định.md",
+    "Daily/2023/September/2023-09-21.md",
+    "Daily/2023/September/2023-09-20.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
+    "Daily/2023/September/2023-09-19.md",
+    "Daily/2023/September/2023-09-17.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/3. Tính từ.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/1. Thể hiện trạng thái.md",
-    "Daily/2023/September/2023-09-17.md",
     "Daily/2023/September/2023-09-16.md",
     "non-logical particles.md",
     "Workout/Legs day.md",
@@ -204,13 +196,10 @@
     "Daily/2023/September/2023-09-07.md",
     "Daily/2023/August/2023-08-24.md",
     "Daily/2023/August/2023-08-19.md",
-    "TEMPLATES/Daily Note.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản",
     "Japanese/Grammar/Tae Kim's guide",
-    "Obsidian-Note/README.md",
     "Obsidian-Note",
     "Daily/2023/September",
-    "Workout/Pull Day.md",
     "Japanese/Grammar",
     "Japanese",
     "Images",

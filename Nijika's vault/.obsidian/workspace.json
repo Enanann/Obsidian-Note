@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/8. Động từ chuyển tiếp (transitive verbs) và nội động từ (intransitive verbs).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 386.5
   },
   "right": {
     "id": "298ff6d5fd95fb75",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/8. Động từ chuyển tiếp (transitive verbs) và nội động từ (intransitive verbs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/8. Động từ chuyển tiếp (transitive verbs) và nội động từ (intransitive verbs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md"
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/8. Động từ chuyển tiếp (transitive verbs) và nội động từ (intransitive verbs).md"
               }
             }
           },
@@ -153,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,16 +166,19 @@
   },
   "active": "55d3f5d8941e0a64",
   "lastOpenFiles": [
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/8. Động từ chuyển tiếp (transitive verbs) và nội động từ (intransitive verbs).md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/6. Thì quá khứ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/5. Động từ phủ định.md",
-    "Daily/2023/September/2023-09-21.md",
-    "Daily/2023/September/2023-09-20.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
-    "Daily/2023/September/2023-09-19.md",
-    "Daily/2023/September/2023-09-17.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/3. Tính từ.md",
+    "Daily/2023/September/2023-09-25.md",
+    "Daily/2023/September/2023-09-22.md",
+    "Daily/2023/September/2023-09-21.md",
+    "Daily/2023/September/2023-09-20.md",
+    "Daily/2023/September/2023-09-19.md",
+    "Daily/2023/September/2023-09-17.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/1. Thể hiện trạng thái.md",
     "Daily/2023/September/2023-09-16.md",
     "non-logical particles.md",
@@ -193,9 +194,6 @@
     "Images/Pasted image 20230910013034.jpg",
     "Daily/2023/September/2023-09-06.md",
     "Daily/2023/September/2023-09-09.md",
-    "Daily/2023/September/2023-09-07.md",
-    "Daily/2023/August/2023-08-24.md",
-    "Daily/2023/August/2023-08-19.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản",
     "Japanese/Grammar/Tae Kim's guide",
     "Obsidian-Note",

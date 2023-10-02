@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b0a92e9bd1c58e2",
+            "id": "a035c2f86f8f5dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/September/2023-09-27.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cbffc78f23e6263a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
@@ -79,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "298ff6d5fd95fb75",
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/September/2023-09-27.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/September/2023-09-27.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/September/2023-09-27.md"
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md"
               }
             }
           },
@@ -162,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,23 +166,28 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7bebf1aec87a4824",
+  "active": "a035c2f86f8f5dbc",
   "lastOpenFiles": [
-    "non-logical particles.md",
+    "Daily/2023/October/2023-10-02.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
+    "Daily/2023/October/2023-10-01.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/8. Động từ chuyển tiếp (transitive verbs) và nội động từ (intransitive verbs).md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/1. Thể hiện trạng thái.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/9. Mệnh đề quan hệ và thứ tự câu.md",
-    "Daily/2023/September/2023-09-27.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/6. Thì quá khứ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/5. Động từ phủ định.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/3. Tính từ.md",
-    "Daily/2023/September/2023-09-25.md",
-    "Daily/2023/September/2023-09-22.md",
-    "Daily/2023/September/2023-09-21.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/6. Thì quá khứ.md",
+    "Daily/2023/October",
+    "Daily/2023/September/2023-09-30.md",
+    "Daily/2023/September/2023-09-27.md",
     "Daily/2023/September/2023-09-20.md",
+    "Daily/2023/September/2023-09-21.md",
+    "Daily/2023/September/2023-09-22.md",
+    "Daily/2023/September/2023-09-25.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/3. Tính từ.md",
+    "non-logical particles.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/1. Thể hiện trạng thái.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/9. Mệnh đề quan hệ và thứ tự câu.md",
     "Daily/2023/September/2023-09-19.md",
     "Daily/2023/September/2023-09-17.md",
     "Daily/2023/September/2023-09-16.md",
@@ -198,10 +195,6 @@
     "Daily/2023/September/2023-09-15.md",
     "Tính từ đuôi na.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/Tính từ đuôi na.md",
-    "Daily/2023/September/2023-09-14.md",
-    "Daily/2023/September/2023-09-12.md",
-    "Daily/2023/September/2023-09-10.md",
-    "Pasted image 20230910013034.jpg.md",
     "Images/kita.png",
     "Images/Pasted image 20230910013034.jpg",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản",
@@ -214,7 +207,6 @@
     "Workout",
     "Books",
     "nijika.png",
-    "Day Planners",
     "Pasted image 20230817222446.png",
     "TEMPLATES/Pasted image 20230817221942.png"
   ]

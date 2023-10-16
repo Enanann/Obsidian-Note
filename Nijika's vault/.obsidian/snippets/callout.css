@@ -5,3 +5,5 @@
 .callout-title-inner, .callout-icon {
   display:none;
 }
+
+.MathJax { font-size: 1.3em; }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Đại số/6.2 Các loại ma trận.md",
+                "file": "Daily/2023/October/2023-10-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "298ff6d5fd95fb75",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Đại số/6.2 Các loại ma trận.md",
+                "file": "Daily/2023/October/2023-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Đại số/6.2 Các loại ma trận.md",
+                "file": "Daily/2023/October/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Đại số/6.2 Các loại ma trận.md"
+                "file": "Daily/2023/October/2023-10-26.md"
               }
             }
           },
@@ -168,9 +167,9 @@
   },
   "active": "7509430f495e882d",
   "lastOpenFiles": [
-    "Uni/Đại số/6.1 Các phép toán ma trận.md",
     "Daily/2023/October/2023-10-26.md",
     "Uni/Đại số/6.2 Các loại ma trận.md",
+    "Uni/Đại số/6.1 Các phép toán ma trận.md",
     "Uni/Đại số/6. Ma trận.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/11. Trạng từ và trợ từ kết thúc câu.md",

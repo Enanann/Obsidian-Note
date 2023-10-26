@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b273639ebed84b6",
+            "id": "7509430f495e882d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/October/2023-10-16.md",
+                "file": "Uni/Đại số/6.2 Các loại ma trận.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "abel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "298ff6d5fd95fb75",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/October/2023-10-16.md",
+                "file": "Uni/Đại số/6.2 Các loại ma trận.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/October/2023-10-16.md",
+                "file": "Uni/Đại số/6.2 Các loại ma trận.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/October/2023-10-16.md"
+                "file": "Uni/Đại số/6.2 Các loại ma trận.md"
               }
             }
           },
@@ -152,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,53 +166,53 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "4b273639ebed84b6",
+  "active": "7509430f495e882d",
   "lastOpenFiles": [
-    "Uni/Đại số/5.3 Ứng dụng đại số Boole vào mạch chuyển mạch.md",
-    "Uni/Đại số/5.2 Các tính chất của hàm Boole.md",
-    "Uni/Đại số/5. Đại số Boole.md",
-    "Uni/Đại số/5.1 Nguyên lí đối ngẫu.md",
-    "Uni/Đại số/4. Cấu trúc đại số.md",
-    "Uni/Đại số/3.1 Các loại ánh xạ đặc biệt.md",
-    "Uni/Đại số/3.2 Ánh xạ ngược.md",
-    "Uni/Đại số/3.3 Tích các ánh xạ.md",
-    "Uni/Đại số/3. Ánh xạ.md",
-    "Uni/Đại số/2. Tập hợp.md",
-    "Uni/Đại số/1. Sơ lược mệnh đề.md",
-    "Uni/Đại số/4.1 Phép toán một ngôi, phép toán hai ngôi.md",
-    "Daily/2023/October/2023-10-16.md",
-    "Untitled.md",
-    "chuyển vị.md",
-    "Uni/Đại số/files/vi_du_5.3.png",
-    "Uni/Đại số/files/ps1279.tmp",
-    "Uni/Đại số/files/machdiencoban.png",
-    "Uni/Đại số/files/psF955.tmp",
-    "Uni/Đại số/files/tinh chat cua ham Boole.png",
-    "Uni/Đại số/files/ps713.tmp",
-    "Các.md",
+    "Uni/Đại số/6.1 Các phép toán ma trận.md",
+    "Daily/2023/October/2023-10-26.md",
+    "Uni/Đại số/6.2 Các loại ma trận.md",
     "Uni/Đại số/6. Ma trận.md",
-    "Uni/Đại số/1.1 Mệnh đề.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/11. Trạng từ và trợ từ kết thúc câu.md",
+    "Daily/2023/October/2023-10-25.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu",
+    "Daily/2023/October/2023-10-24.md",
+    "Uni/Đại số/5. Đại số Boole.md",
+    "Uni/Đại số/5.3 Ứng dụng đại số Boole vào mạch chuyển mạch.md",
+    "Uni/Đại số/3. Ánh xạ.md",
+    "Uni/Đại số/1.2 Các phép liên kết logic mệnh đề.md",
+    "Uni/Đại số/1. Sơ lược mệnh đề.md",
+    "Daily/2023/October/2023-10-23.md",
+    "Uni/Đại số/files/menh de phep cong ma tran.png",
+    "Uni/Đại số/files/vi du nhan ma tran voi ma tran.png",
+    "Uni/Đại số/files/psB65D.tmp",
+    "Uni/Đại số/4. Cấu trúc đại số.md",
+    "Uni/Đại số/4.1 Phép toán một ngôi, phép toán hai ngôi.md",
+    "Pasted image 20231021235704.png",
+    "Uni/Đại số/files/ps1794.tmp",
+    "Uni/Đại số/files/vi du ma tran bang nhau.png",
+    "Uni/Đại số/5.2 Các tính chất của hàm Boole.md",
+    "Uni/Đại số/5.1 Nguyên lí đối ngẫu.md",
+    "Uni/Đại số/3.3 Tích các ánh xạ.md",
+    "Uni/Đại số/3.2 Ánh xạ ngược.md",
+    "Uni/Đại số/3.1 Các loại ánh xạ đặc biệt.md",
     "Uni/Đại số/2.2 Các phép toán trên tập hợp.md",
     "Uni/Đại số/2.1 Phần tử.md",
-    "Uni/Đại số/1.2 Các phép liên kết logic mệnh đề.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
-    "Uni/Đại số/files/ps78F8.tmp",
+    "Uni/Đại số/2. Tập hợp.md",
+    "Uni/Đại số/1.1 Mệnh đề.md",
+    "Daily/2023/October/2023-10-21.md",
+    "Uni/Đại số/files/vi_du_5.3.png",
     "Uni/Đại số/files/vi du anh xa nguoc.png",
-    "3.1.md",
-    "Uni/Đại số/files/ps3255.tmp",
-    "Uni/Đại số/files/chung minh anh xa.png",
     "Uni/Đại số/files/anhxadacbiet.png",
-    "Uni/Đại số/files/debug.log",
-    "Daily/2023/October/2023-10-15.md",
     "Uni/Đại số/files/tinh chat phep toan tap hop.png",
+    "Uni/Đại số/files/tinh chat cua ham Boole.png",
     "Uni/Đại số/files/mệnh đề hằng đúng.png",
-    "Uni/Đại số/files/bangchantri.png",
-    "Daily/2023/October/2023-10-11.md",
-    "Uni/Đại số/2.2 Biểu đồ Venn.md",
-    "Uni/Đại số/files",
-    "Pasted image 20231002164653 1.png",
-    "Uni/Đại số/Chương 1. Sơ lược mệnh đề, tập hợp ánh xạ và cấu trúc đại số",
-    "Uni/Giải tích",
-    "Uni/Đại số"
+    "Uni/Đại số/files/ps1279.tmp",
+    "Uni/Đại số/files/psF955.tmp",
+    "Uni/Đại số/files/ps713.tmp",
+    "Uni/Đại số/files/ps78F8.tmp",
+    "Uni/Đại số/files/ps3255.tmp",
+    "Uni/Đại số/files/debug.log",
+    "Uni/Đại số/files"
   ]
 }

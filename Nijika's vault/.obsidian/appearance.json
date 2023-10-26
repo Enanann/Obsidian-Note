@@ -6,5 +6,6 @@
     "image-bg"
   ],
   "textFontFamily": "Noto Sans CJK JP,Noto Sans JP",
-  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans JP"
+  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans JP",
+  "baseFontSize": 16
 }

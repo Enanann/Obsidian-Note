@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69376159911413e1",
+        "id": "1f555270befe5567",
         "type": "tabs",
         "children": [
           {
-            "id": "7509430f495e882d",
+            "id": "6590dbb6dd2e56b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/October/2023-10-26.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "298ff6d5fd95fb75",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/October/2023-10-26.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/October/2023-10-26.md",
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/October/2023-10-26.md"
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md"
               }
             }
           },
@@ -165,14 +166,24 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7509430f495e882d",
+  "active": "6590dbb6dd2e56b9",
   "lastOpenFiles": [
-    "Daily/2023/October/2023-10-26.md",
-    "Uni/Đại số/6.2 Các loại ma trận.md",
-    "Uni/Đại số/6.1 Các phép toán ma trận.md",
-    "Uni/Đại số/6. Ma trận.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/3. Tính từ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/11. Trạng từ và trợ từ kết thúc câu.md",
+    "Uni/Đại số/6.3 Định thức của ma trận.md",
+    "Uni/Đại số/6.1 Các phép toán ma trận.md",
+    "Uni/Đại số/6.2 Các loại ma trận.md",
+    "Daily/2023/October/2023-10-27.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
+    "Uni/Đại số/3.2 Ánh xạ ngược.md",
+    "non-logical particles.md",
+    "Uni/Giải tích/1.1 Số hữu tỉ, số vô tỉ.md",
+    "Uni/Giải tích/1. Số thực.md",
+    "Daily/2023/October/2023-10-26.md",
+    "Uni/Đại số/6. Ma trận.md",
     "Daily/2023/October/2023-10-25.md",
     "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu",
     "Daily/2023/October/2023-10-24.md",
@@ -190,16 +201,6 @@
     "Pasted image 20231021235704.png",
     "Uni/Đại số/files/ps1794.tmp",
     "Uni/Đại số/files/vi du ma tran bang nhau.png",
-    "Uni/Đại số/5.2 Các tính chất của hàm Boole.md",
-    "Uni/Đại số/5.1 Nguyên lí đối ngẫu.md",
-    "Uni/Đại số/3.3 Tích các ánh xạ.md",
-    "Uni/Đại số/3.2 Ánh xạ ngược.md",
-    "Uni/Đại số/3.1 Các loại ánh xạ đặc biệt.md",
-    "Uni/Đại số/2.2 Các phép toán trên tập hợp.md",
-    "Uni/Đại số/2.1 Phần tử.md",
-    "Uni/Đại số/2. Tập hợp.md",
-    "Uni/Đại số/1.1 Mệnh đề.md",
-    "Daily/2023/October/2023-10-21.md",
     "Uni/Đại số/files/vi_du_5.3.png",
     "Uni/Đại số/files/vi du anh xa nguoc.png",
     "Uni/Đại số/files/anhxadacbiet.png",

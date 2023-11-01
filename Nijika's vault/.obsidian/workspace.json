@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
+                "file": "Daily/2023/November/2023-11-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
+                "file": "Daily/2023/November/2023-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
+                "file": "Daily/2023/November/2023-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md"
+                "file": "Daily/2023/November/2023-11-01.md"
               }
             }
           },
@@ -168,36 +168,40 @@
   },
   "active": "6590dbb6dd2e56b9",
   "lastOpenFiles": [
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/2. Trợ từ cơ bản.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/3. Tính từ.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/12. Thể lịch sự và đuôi động từ.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/11. Trạng từ và trợ từ kết thúc câu.md",
-    "Uni/Đại số/6.3 Định thức của ma trận.md",
     "Uni/Đại số/6.1 Các phép toán ma trận.md",
+    "Daily/2023/November/2023-11-01.md",
+    "Daily/2023/November",
     "Uni/Đại số/6.2 Các loại ma trận.md",
-    "Daily/2023/October/2023-10-27.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
-    "Uni/Đại số/3.2 Ánh xạ ngược.md",
-    "non-logical particles.md",
-    "Uni/Giải tích/1.1 Số hữu tỉ, số vô tỉ.md",
-    "Uni/Giải tích/1. Số thực.md",
-    "Daily/2023/October/2023-10-26.md",
     "Uni/Đại số/6. Ma trận.md",
-    "Daily/2023/October/2023-10-25.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu",
-    "Daily/2023/October/2023-10-24.md",
+    "Daily/2023/October/2023-10-31.md",
+    "Uni/Đại số/6.6 Hạng của ma trận.md",
+    "Uni/Đại số/6.7 Phép biến đổi sơ cấp.md",
+    "Daily/2023/October/2023-10-29.md",
+    "Uni/Đại số/3.3 Tích các ánh xạ.md",
+    "Uni/Đại số/4. Cấu trúc đại số.md",
+    "Uni/Đại số/4.1 Phép toán một ngôi, phép toán hai ngôi.md",
     "Uni/Đại số/5. Đại số Boole.md",
     "Uni/Đại số/5.3 Ứng dụng đại số Boole vào mạch chuyển mạch.md",
+    "Uni/Đại số/5.2 Các tính chất của hàm Boole.md",
+    "Uni/Đại số/5.1 Nguyên lí đối ngẫu.md",
+    "Uni/Đại số/3.1 Các loại ánh xạ đặc biệt.md",
+    "Uni/Đại số/3.2 Ánh xạ ngược.md",
     "Uni/Đại số/3. Ánh xạ.md",
+    "Uni/Đại số/2.2 Các phép toán trên tập hợp.md",
+    "Uni/Đại số/2. Tập hợp.md",
+    "Uni/Đại số/2.1 Phần tử.md",
     "Uni/Đại số/1.2 Các phép liên kết logic mệnh đề.md",
     "Uni/Đại số/1. Sơ lược mệnh đề.md",
-    "Daily/2023/October/2023-10-23.md",
+    "Uni/Đại số/1.1 Mệnh đề.md",
+    "Uni/Đại số/6.3 Định thức của ma trận.md",
+    "Uni/Đại số/6.4 Tính chất của định thức.md",
+    "Pasted image 20231029095424.png",
+    "Uni/Đại số/files/psFD7B.tmp",
+    "Uni/Đại số/files/Saruss.png",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu",
     "Uni/Đại số/files/menh de phep cong ma tran.png",
     "Uni/Đại số/files/vi du nhan ma tran voi ma tran.png",
     "Uni/Đại số/files/psB65D.tmp",
-    "Uni/Đại số/4. Cấu trúc đại số.md",
-    "Uni/Đại số/4.1 Phép toán một ngôi, phép toán hai ngôi.md",
     "Pasted image 20231021235704.png",
     "Uni/Đại số/files/ps1794.tmp",
     "Uni/Đại số/files/vi du ma tran bang nhau.png",
@@ -205,14 +209,10 @@
     "Uni/Đại số/files/vi du anh xa nguoc.png",
     "Uni/Đại số/files/anhxadacbiet.png",
     "Uni/Đại số/files/tinh chat phep toan tap hop.png",
-    "Uni/Đại số/files/tinh chat cua ham Boole.png",
-    "Uni/Đại số/files/mệnh đề hằng đúng.png",
     "Uni/Đại số/files/ps1279.tmp",
     "Uni/Đại số/files/psF955.tmp",
     "Uni/Đại số/files/ps713.tmp",
     "Uni/Đại số/files/ps78F8.tmp",
-    "Uni/Đại số/files/ps3255.tmp",
-    "Uni/Đại số/files/debug.log",
-    "Uni/Đại số/files"
+    "Uni/Đại số/files/ps3255.tmp"
   ]
 }

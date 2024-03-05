@@ -4,67 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f75c9f47d6b90c9b",
+        "id": "504fbaaaee021194",
         "type": "tabs",
         "children": [
           {
-            "id": "af2764f289ec0694",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "122bb5b3979e7145",
+            "id": "cc48ec66d9a98e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Đại số/7. Hệ phương trình tuyến tính.md",
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.1 Phép thử và biến cố.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b8d358e266f1dfe",
+            "id": "29bc2ac24e40637f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Đại số/7.1 Dạng ma trận của hệ phương trình tuyến tính.md",
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.2 Xác suất và các tính chất.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b81ec9f57dcec042",
+            "id": "b3cd3add2b2af190",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Đại số/7.2 Các phương pháp giải hệ phương trình tuyến tính.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c71dae442cfabb63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/Đại số/6.2 Các loại ma trận.md",
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.3 Xác suất có điều kiện.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Đại số/7.2 Các phương pháp giải hệ phương trình tuyến tính.md",
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.3 Xác suất có điều kiện.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Đại số/7.2 Các phương pháp giải hệ phương trình tuyến tính.md",
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.3 Xác suất có điều kiện.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Đại số/7.2 Các phương pháp giải hệ phương trình tuyến tính.md"
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.3 Xác suất có điều kiện.md"
               }
             }
           },
@@ -188,7 +168,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -197,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,52 +192,52 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b81ec9f57dcec042",
+  "active": "b3cd3add2b2af190",
   "lastOpenFiles": [
-    "Uni/Đại số/6.2 Các loại ma trận.md",
-    "Uni/Đại số/7.2 Các phương pháp giải hệ phương trình tuyến tính.md",
-    "Uni/Đại số/7.1 Dạng ma trận của hệ phương trình tuyến tính.md",
-    "Uni/Đại số/files/ps9738.tmp",
-    "Uni/Đại số/files/vi_du_cramer.png",
-    "Uni/Đại số/files/ps4A35.tmp",
-    "Uni/Đại số/7. Hệ phương trình tuyến tính.md",
-    "Uni/Đại số/files/vi du ma tran bang nhau.png",
-    "Uni/Đại số/files/vi du nhan ma tran voi ma tran.png",
-    "Uni/Đại số/files/vi_du_5.3.png",
-    "Uni/Đại số/6.1 Các phép toán ma trận.md",
-    "Uni/Đại số/6.6 Hạng của ma trận.md",
-    "Uni/Đại số/6. Ma trận.md",
-    "Uni/Giải tích/2.2 Công thức Moivre.md",
-    "Daily/2023/November/2023-11-09.md",
-    "Uni/Đại số/4.1 Phép toán một ngôi, phép toán hai ngôi.md",
-    "Uni/Đại số/4. Cấu trúc đại số.md",
-    "Uni/Đại số/3.3 Tích các ánh xạ.md",
-    "Uni/Đại số/3.2 Ánh xạ ngược.md",
-    "Uni/Đại số/3. Ánh xạ.md",
-    "Uni/Đại số/2.2 Các phép toán trên tập hợp.md",
-    "Uni/Đại số/3.1 Các loại ánh xạ đặc biệt.md",
-    "Uni/Giải tích/3.1 Các tính chất của giới hạn dãy số.md",
-    "Uni/Giải tích/3. Dãy số thực.md",
-    "Uni/Giải tích/2.4 Giải phương trình bậc 4 trên trường số phức.md",
-    "Uni/Giải tích/3.2 Các phép toán về giới hạn của dãy số.md",
-    "Daily/2023/November/2023-11-08.md",
-    "Uni/Giải tích/2.3 Công thức Euler.md",
-    "Uni/Giải tích/2.1 Biểu diễn số phức dưới dạng hình học.md",
-    "Uni/Giải tích/2. Số phức.md",
-    "Uni/Giải tích/1.1 Số hữu tỉ, số vô tỉ.md",
-    "Uni/Giải tích/files/phep_toan_gioi_han_day_so.png",
-    "Uni/Giải tích/files/psC2F7.tmp",
-    "Uni/Giải tích/files/ps887.tmp",
-    "Uni/Giải tích/files/bieu_dien_hinh_hoc.png",
-    "Uni/Giải tích/files/ps6814.tmp",
-    "Uni/Giải tích/files/tinh_chat_so_phuc.png",
-    "Uni/Giải tích/files/psF823.tmp",
-    "Uni/Giải tích/files/psCA8E.tmp",
-    "Uni/Giải tích/files/ps7E80.tmp",
-    "Uni/Giải tích/files/phep_toan_so_phuc.png",
-    "Uni/Giải tích/files/psECC3.tmp",
-    "Uni/Giải tích/files",
-    "Pasted image 20231029095424.png",
-    "Uni/Đại số/files/Saruss.png"
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.2 Xác suất và các tính chất.md",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.1 Phép thử và biến cố.md",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.3 Xác suất có điều kiện.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/2.3 Các định lý về động lượng.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/2.1 Các định luật Newton.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.2 Vận tốc và gia tốc.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.1 Động học chất điểm.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/2.2 Một số lực trong chuyển động.md",
+    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305215605.png",
+    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305214421.png",
+    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305213708.png",
+    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305212932.png",
+    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240304140235.png",
+    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240304135318.png",
+    "Pasted image 20240305213833.png",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 2",
+    "Daily/2024/March/2024-03-05.md",
+    "Uni/Year 1/Semester 2/Vật lý/files/b.png",
+    "Daily/2024/March/2024-03-04.md",
+    "Uni/Year 1/Semester 2/Vật lý/files",
+    "Pasted image 20240304135318.png",
+    "psE486.tmp",
+    "ps9F41.tmp",
+    "Pasted image 20240304134522.png",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/2.2 Các phép toán trên tập hợp.md",
+    "Daily/2024/March/2024-03-03.md",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1",
+    "Daily/2024/March/2024-03-01.md",
+    "Daily/2024/March",
+    "Daily/2024/February/2024-02-27.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/6.3 Định thức của ma trận.md",
+    "Daily/2024/February/2024-02-26.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/9. Mệnh đề quan hệ và thứ tự câu.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
+    "Daily/2024/February/2024-02-25.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/17. Dạng tiềm năng (Potential form).md",
+    "Uni/Year 1/Semester 2/Vật lý",
+    "Uni/Year 1/Semester 2/Giải tích 2",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê",
+    "Daily/2024/February/2024-02-24.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/5. Động từ phủ định.md",
+    "Daily/2024/February/2024-02-23.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/6.6 Hạng của ma trận.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/6. Ma trận.md"
   ]
 }

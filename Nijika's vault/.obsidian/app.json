@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "promptDelete": false
 }

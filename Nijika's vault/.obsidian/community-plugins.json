@@ -1,5 +1,7 @@
 [
   "dataview",
   "calendar",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "highlightr-plugin",
+  "colored-text"
 ]

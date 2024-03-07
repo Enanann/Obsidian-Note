@@ -5,7 +5,7 @@
     "callout",
     "image-bg"
   ],
-  "textFontFamily": "Noto Sans CJK JP,Noto Sans JP",
-  "interfaceFontFamily": "Noto Sans CJK JP,Noto Sans JP",
+  "textFontFamily": "Noto Sans JP,Noto Sans CJK JP",
+  "interfaceFontFamily": "Noto Sans JP,Noto Sans CJK JP",
   "baseFontSize": 16
 }

@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a9231f0932693587",
+        "id": "c095d477a93ef7a3",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e72588b8f726e3",
+            "id": "834d9a7e6a5e23f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/17. Dạng tiềm năng (Potential form).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de72f8c16399d7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md"
+              }
             }
           },
           {
@@ -158,8 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7e72588b8f726e3",
+  "active": "de72f8c16399d7e4",
   "lastOpenFiles": [
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/17. Dạng tiềm năng (Potential form).md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/16. Ứng dụng khác của thể て.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/11. Trạng từ và trợ từ kết thúc câu.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
+    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
     "Uni/Year 1/Semester 1 (left halfway)/Giải tích/Chương 2/5. Giới hạn hàm số.md",
     "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.2 Giới hạn hàm nhiều biến số.md",
     "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.2 Vận tốc và gia tốc.md",
@@ -197,13 +225,6 @@
     "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1",
     "Daily/2024/March/2024-03-01.md",
     "Daily/2024/March",
-    "Daily/2024/February/2024-02-27.md",
-    "Uni/Year 1/Semester 1 (left halfway)/Đại số/6.3 Định thức của ma trận.md",
-    "Daily/2024/February/2024-02-26.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/9. Mệnh đề quan hệ và thứ tự câu.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
-    "Daily/2024/February/2024-02-25.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/17. Dạng tiềm năng (Potential form).md",
     "Uni/Year 1/Semester 2/Vật lý",
     "Uni/Year 1/Semester 2/Giải tích 2"
   ]

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c095d477a93ef7a3",
+        "id": "e0d2497979379eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "834d9a7e6a5e23f5",
+            "id": "6a3e3ad11a56c16b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/17. Dạng tiềm năng (Potential form).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de72f8c16399d7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
+                "file": "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.8 Đạo hàm, vi phân hàm hợp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
+                "file": "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.8 Đạo hàm, vi phân hàm hợp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
+                "file": "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.8 Đạo hàm, vi phân hàm hợp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md"
+                "file": "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.8 Đạo hàm, vi phân hàm hợp.md"
               }
             }
           },
@@ -179,30 +166,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de72f8c16399d7e4",
+  "active": "6a3e3ad11a56c16b",
   "lastOpenFiles": [
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/17. Dạng tiềm năng (Potential form).md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/16. Ứng dụng khác của thể て.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/4. Động từ cơ bản.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp thiết yếu/18. Sử dụng「なる」、「する」với「に」.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/11. Trạng từ và trợ từ kết thúc câu.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/10. Trợ từ liên quan đến danh từ.md",
-    "Japanese/Grammar/Tae Kim's guide/Ngữ pháp cơ bản/7. Trợ từ được sử dụng với động từ.md",
-    "Uni/Year 1/Semester 1 (left halfway)/Giải tích/Chương 2/5. Giới hạn hàm số.md",
-    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.2 Giới hạn hàm nhiều biến số.md",
-    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.2 Vận tốc và gia tốc.md",
-    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/2.1 Các định luật Newton.md",
-    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.1 Các khái niệm chung.md",
-    "Uni/Year 1/Semester 1 (left halfway)/Giải tích/Chương 1/1. Số thực.md",
-    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.1 Động học chất điểm.md",
-    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1",
-    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.4 Dãy phép thử Bernoulli.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.5 Vi phân toàn phần.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.6 Đạo hàm riêng cấp cao.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.8 Đạo hàm, vi phân hàm hợp.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.7 Vi phân cấp cao.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.10 Đạo hàm theo hướng (Gradient).md",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/6.1 Các phép toán ma trận.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/6.5 Phương trình ma trận.md",
     "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.3 Xác suất có điều kiện.md",
-    "Daily/2024/March/2024-03-06.md",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.4 Dãy phép thử Bernoulli.md",
     "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.1 Phép thử và biến cố.md",
-    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.2 Xác suất và các tính chất.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.9 Đạo hàm hàm ẩn.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Giải tích/Chương 2/9. Vi phân.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Giải tích/Chương 2/8. Đạo hàm.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.1 Các khái niệm chung.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.4 Đạo hàm riêng hàm nhiều biến.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/3.3 Tích các ánh xạ.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Đại số/3. Ánh xạ.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Giải tích/Chương 2/9.2 Vi phân cấp cao.md",
+    "Pasted image 20240308144744.png",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.1 Động học chất điểm.md",
     "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/2.3 Các định lý về động lượng.md",
     "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/2.2 Một số lực trong chuyển động.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/2.1 Các định luật Newton.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.2 Vận tốc và gia tốc.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.2 Giới hạn hàm nhiều biến số.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Pasted image 20240308141412.png",
+    "Uni/Year 1/Semester 2/Giải tích 2/psA168.tmp",
+    "Uni/Year 1/Semester 2/Giải tích 2/debug.log",
+    "Uni/Year 1/Semester 2/Giải tích 2/psBDBD.tmp",
+    "Uni/Year 1/Semester 2/Giải tích 2/ps4891.tmp",
+    "Uni/Year 1/Semester 2/Giải tích 2/Pasted image 20240308140437.png",
+    "non-logical particles.md",
+    "Uni/Year 1/Semester 1 (left halfway)/Giải tích/Chương 2/8.1 Các quy tắc tính đạo hàm.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 1",
     "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305215605.png",
     "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305214421.png",
     "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305213708.png",
@@ -211,21 +210,9 @@
     "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240304135318.png",
     "Pasted image 20240305213833.png",
     "Uni/Year 1/Semester 2/Vật lý/Chương 2",
-    "Daily/2024/March/2024-03-05.md",
-    "Uni/Year 1/Semester 2/Vật lý/files/b.png",
-    "Daily/2024/March/2024-03-04.md",
     "Uni/Year 1/Semester 2/Vật lý/files",
-    "Pasted image 20240304135318.png",
     "psE486.tmp",
     "ps9F41.tmp",
-    "Pasted image 20240304134522.png",
-    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm",
-    "Uni/Year 1/Semester 1 (left halfway)/Đại số/2.2 Các phép toán trên tập hợp.md",
-    "Daily/2024/March/2024-03-03.md",
-    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1",
-    "Daily/2024/March/2024-03-01.md",
-    "Daily/2024/March",
-    "Uni/Year 1/Semester 2/Vật lý",
-    "Uni/Year 1/Semester 2/Giải tích 2"
+    "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm"
   ]
 }

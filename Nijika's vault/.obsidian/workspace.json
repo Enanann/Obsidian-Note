@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f18d3b94d29da1e6",
+        "id": "21f27cc10511d0fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d8004d5f70a2ffa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.6 Moment động lượng.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebb80b1e34bef9d0",
+            "id": "8a161f0c83e239f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6089c530e272acda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 2/2.2 Các tham số đặc trưng của biến ngẫu nhiên.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a643798d97414c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412103758.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.6 Moment động lượng.md",
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412103758.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.6 Moment động lượng.md",
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412103758.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.6 Moment động lượng.md"
+                "file": "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412103758.png"
               }
             }
           }
@@ -179,9 +190,19 @@
   },
   "active": "54110a4493a53bbd",
   "lastOpenFiles": [
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412110323.png",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/files",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412103758.png",
+    "Pasted image 20240412103441.png",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 2/2.3 Một số phân bố xác suất thường gặp.md",
+    "2.3 Phương sai.md",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412105305.png",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/files/Pasted image 20240412105248.png",
+    "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 2/2.2 Các tham số đặc trưng của biến ngẫu nhiên.md",
     "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 2/2.1 Quy luật phân bố xác suất của biến ngẫu nhiên.md",
-    "Uni/Year 1/Semester 2/Vật lý/Chương 7/7.2 Định luật Coulomb.md",
+    "Uni/Year 1/Semester 2/Giải tích 2/Chương 2/2.1 Tích phân bội hai (Tích phân kép).md",
     "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.6 Moment động lượng.md",
+    "Uni/Year 1/Semester 2/Vật lý/Chương 7/7.2 Định luật Coulomb.md",
     "Uni/Year 1/Semester 2/Xác xuất thống kê/Chương 1/1.4 Dãy phép thử Bernoulli.md",
     "Uni/Year 1/Semester 2/Vật lý/Chương 7",
     "Uni/Year 1/Semester 2/Vật lý/Chương 4",
@@ -200,17 +221,11 @@
     "Uni/Year 1/Semester 2/Giải tích 2/files/Pasted image 20240318165106.png",
     "Uni/Year 1/Semester 2/Giải tích 2/files/Pasted image 20240318164922.png",
     "Uni/Year 1/Semester 2/Giải tích 2/Chương 1/1.1 Các khái niệm chung.md",
-    "Uni/Year 1/Semester 2/Giải tích 2/Chương 2/2.1 Tích phân bội hai (Tích phân kép).md",
     "Uni/Year 1/Semester 2/Giải tích 2/files/Pasted image 20240308140437.png",
     "Uni/Year 1/Semester 2/Giải tích 2/Chương 2",
     "Uni/Year 1/Semester 2/Giải tích 2/files",
     "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240313195255.png",
     "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305212932.png",
-    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305213708.png",
-    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305214421.png",
-    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240305215605.png",
-    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240312215417.png",
-    "Uni/Year 1/Semester 2/Vật lý/files/Pasted image 20240313200527.png",
     "Uni/Year 1/Semester 2/Vật lý/Chương 2/2.1 Khối tâm.md",
     "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.5 Các định lý về động lượng.md",
     "Uni/Year 1/Semester 2/Vật lý/Chương 1 Động lực học chất điểm/1.4 Một số lực trong chuyển động.md",

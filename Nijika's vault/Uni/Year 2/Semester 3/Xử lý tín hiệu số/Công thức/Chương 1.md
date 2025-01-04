@@ -52,7 +52,7 @@ $\hspace{3cm}$$L[x(n)]=[0,3]=4$,   $L:$ toán tử chiều dài
 
 # Năng lượng của dãy
 
-- Năng lượng của dãy $x(n$
+- Năng lượng của dãy $x(n)$
 
 $\hspace{3cm}$$E_x=\displaystyle{\sum_{n=-\infty}^\infty}|x(n)|^2$
 

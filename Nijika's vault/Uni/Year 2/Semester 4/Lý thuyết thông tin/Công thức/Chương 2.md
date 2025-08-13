@@ -214,6 +214,10 @@ $\hspace{3cm}$$C'=F\log(1+\frac{\mu^2 P_s}{N_0F})=F.\log(1+SNR)$  $[bps]$
 	- $P_n=N_0.F$: Với trường hợp nhiễu tạp âm trắng
 	- $N_0$: Mật độ phổ công suất của nhiễu cộng
 
+- $SNR$: Signal to Noise Ratio (hay là $\frac{P_s}{P_n}$). Đổi đơn vị 
+
+$\hspace{3cm}$$SNR=10\log_{10}(\frac{P_s}{P_n}) (dB)$ 
+
 - Nếu $F\to\infty$, tức là khi giải thông kênh là vô hạn
 
 $\hspace{3cm}$$C'_{\infty}=\lim_{F\to\infty}C'=(\log_2e) (\frac{\mu^2 P_s}{N_0})=1,443.\frac{P_{\mu s}}{N_0}$   $[bps]$

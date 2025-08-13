@@ -31,7 +31,7 @@ $\hspace{1.5cm}$$c(X)=x^j.a(X)=x^j.\displaystyle{\sum_{i=0}^{n-1}a_i x^i}\leftri
 
 ### 4. Đa thức bất khả quy 
 
-- Là đa thức chỉ chia hết cho 1 và chính nó, ngoại trừ $1-x$ thì đa thức bất khả quy có **trọng số lẻ** và **số hạng tự do là 1**
+- Là đa thức chỉ chia hết cho 1 và chính nó, ngoại trừ $1+x$ thì đa thức bất khả quy có **trọng số lẻ** và **số hạng tự do là 1**
 
 >Bậc 1: $1+x$
 >
@@ -139,9 +139,9 @@ RA: Từ mã hệ thống của mã (n, k) cyclic
 
 **Bước 1**: Mã hóa tin $a_i$ bằng đa thức thông tin $a(X)$ với $\deg a(X)\leq k-1$, $a(X)=\displaystyle{\sum_{j=0}^{k-1}a_jx^j}$ 
 
-**Bước 2**: Nâng bậc $x^{n-k}.a(X)$. Tính $h(X)=\frac{x^n+1}{g(X)}$ 
+**Bước 2**: Nâng bậc $x^{n-k}.a(X)$ $\Rightarrow$ Tính vùng dấu mã vùng bit cao. Tính $h(X)=\frac{x^n+1}{g(X)}$ 
 
-**Bước 3**: Lập công thức các dấu mã vùng bit cao: ```for i = 1 to n - k do``` 
+**Bước 3**: Lập công thức các dấu mã vùng bit thấp: ```for i = 1 to n - k do``` 
 
 $\hspace{3cm}$$f_{n-k-i}=\displaystyle{\sum_{j=0}^{k-1}h_j.f_{n-j-i}}$  
 

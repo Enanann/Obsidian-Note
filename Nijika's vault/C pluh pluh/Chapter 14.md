@@ -67,7 +67,7 @@ struct Date {
 - Mỗi thành viên trong class đều có một cấp độ truy cập, là **access level**, chỉ ra xem ai có quyền truy cập nó. Có 3 cấp độ:
 	- `public`: Có thể được truy cập ở cả ngoài hàm (mặc định của struct)
 	- `private`: Chỉ có thể truy cập được với class đó (mặc định của class)
-	- `protected`
+	- `protected`: Giống `private`, nhưng cho phép class kế thừa truy cập 
 
 - Best practice: Thứ tự khai báo
 	- `public` -> `protected` -> `private` 
@@ -85,7 +85,21 @@ struct Date {
 - **Interface** của một kiểu class định nghĩa cách người dùng tương tác với đối tượng của class đó (e.g. qua các hàm thành viên public -> public interface)
 - **Implementation** của một kiểu class bao gồm các dòng lệnh làm cho class hành động như mong muốn -> Gồm các biến thành viên, và phần thân gồm logic chương trình và biến đổi biến thành viên
 
-- **Data hiding** (data abstraction) là khi ta **tách** interface với implementation qua việc ẩn cách triển khai các kiểu dữ liệu do người dùng tạo ra
+- **Data hiding** (data abstraction) là khi ta **tách** interface với implementation qua việc ẩn chi tiết cài đặt (implement) của class
+```cpp
+class BankAccount {
+	public:
+	    void deposit(double);
+	
+	private:
+	    double mBalance{};
+};
+
+...
+
+account.mBalance = 10000; // can't
+account.depost(10000);
+```
 
 - **Encapsulation** (đóng gói, thi thoảng cũng được nhắc là data hiding) thường nói đến 1 trong 2 việc sau:
 	- Đóng gói 1 hoặc nhiều vật trong một container 
@@ -96,6 +110,19 @@ struct Date {
 	- Ưu tiên member function khi cần truy cập biến thành viên private hay protected
 	- Ưu tiên non-member function trong các trường hợp khác 
 -> 2 trường hợp sau sẽ có ngoại lệ 
+```cpp
+class Vector {
+public:
+	int size() const;
+private:
+	int mSizes{};
+};
+
+// should be non-member since not using private/protected member
+bool isEmpty(const Vector& v) { 
+	return v.size() != 0;
+}
+```
 
 - **Constructor** (hàm khởi tạo) là hàm thành viên đặc biệt cho được dùng để khởi tạo object class type. Một hàm khởi tạo phù hợp phải được có cho các object class type non-aggregate 
 - Một cách để tạo hàm khởi tạo là dùng member initilizer list (3 kiểu format, ưu tiên cách 3 hoặc 2 nếu có ít biến thành viên)
@@ -208,7 +235,7 @@ int main()
 ```
 
 - Để khắc phục lỗi trên, constructor được phép ủy quyền (**delegate**) các khởi tạo cho constructor khác trong cùng một kiểu class. Quá trình này được gọi là **constructor chaining** và các constructors đó gọi là **delegating constructor**
-- Chỉ định một **core constructor** khởi tạo đầy đủ member, và để mọi constructor khác **delegate về core**. Lưu ý là nếu sử dụng delegation thì không được dùng member initializer list nữa
+- Chỉ định một **core constructor** khởi tạo đầy đủ member, và để mọi constructor khác **delegate về core**. Lưu ý là nếu sử dụng delegation thì không được dùng member initializer list nữa (tức là nếu delegate thì member initializer list chỉ chứa lời gọi delegate đó)
 ```cpp
 class Foo {
     // Core constructor – khởi tạo tất cả member
@@ -216,6 +243,8 @@ class Foo {
 
     // Overload tiện lợi – delegate về core
     Foo(int x, int y) : Foo{x, y, 0} {}
+    
+    Foo(int x) : Foo{x, 0, 0}, m_y{1}, m_z{2} {} // can't do this!
 
 private:
 	int m_x{};
@@ -233,6 +262,26 @@ private:
 - As-if rule nói rằng compiler có thể thay đổi chương trình tùy ý để tối ưu hóa, miễn là không làm ảnh hưởng đến "hành vi có thể quan sát được" của chương trình. Một ngoại lệ của cái này là **copy elision**
 - **Copy elision** là cách mà compiler tối ưu hóa khởi tạo object, nhằm tránh việc tạo sao chép object thừa thãi. Khi mà compiler tối ưu hóa một call đến copy constructor, ta gọi constructor này đã bị **elided**
 - Ngoại lệ là do copy constructor có thể có side effect như là in ra màn hình, nhưng vẫn có thể bị compiler loại bỏ
+```cpp
+struct Foo {
+    Foo() = default;
+
+    Foo(const Foo&) {
+        std::cout << "Copied\n";
+    }
+};
+
+Foo create() {
+    Foo f;
+    return f;
+}
+
+int main() {
+	Foo f = create(); // often be elided (nothing is printed to the console)
+	
+	Foo y = f;        // print "Copied"
+}
+```
 
 - **User-defined conversion** là hàm ta đã viết để chuyển đổi một giá trị -> program-defined type
 - Hàm khởi tạo có thể được dùng để chuyển đổi ngầm gọi là **converting constructor**. Mặc định thì tất cả các hàm khởi tạo đều là converting constructor 

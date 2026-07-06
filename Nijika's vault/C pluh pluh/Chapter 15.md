@@ -111,6 +111,8 @@ class Display {
 
 - Best practice: Ưu tiên non-friend function khi có thể và hợp lý 
 
+- **Ref-qualifier**: Dùng để overload cho trường hợp implicit object là lvalue hay rvalue
+
 
 
 

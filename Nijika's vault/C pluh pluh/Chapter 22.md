@@ -2,7 +2,7 @@
 - Khi làm việc với tài nguyên cấp phát động, dễ xảy ra tình huống ta quên xóa, early return, throw, gây ra memory leak
 - **Smart pointer** là một composition class (lớp bao gộp) được thiết kế để quản lý bộ nhớ cấp phát động và đảm bảo bộ nhớ đó được xóa khi smart pointer object đi ra khỏi scope
 
-- **Move semantic** có nghĩa là một class sẽ chuyển quyền ownership cho object khác hơn là tạo bản sao. Việc này thường được thực hiện qua **move constructor** và **move assignment operator**
+- **Move semantic** có nghĩa là một object sẽ chuyển quyền ownership cho object khác hơn là tạo bản sao. Việc này thường được thực hiện qua **move constructor** và **move assignment operator**
 
 - Recap lvalue reference 
 
@@ -181,7 +181,7 @@ Auto_ptr3& operator=(Auto_ptr3&& a) noexcept {
 - Move constructor và Copy assignment operator nên được đánh dấu là `noexcept`
 - Ta đặt `a.m_ptr` ở trên thành nullptr để khi `a` ra khỏi scope, destructor của nó sẽ được gọi và xóa hợp lý, nếu không thì `a` cũng sẽ đang chỉ đến cùng một object với cái mà ta đã move qua -> gây dangling pointer 
 
-- `res` trong hàm trên được move mặc dù nó là lvalue vì trong đặc tả C++, automatic object được trả về từ hàm có thể được move mặc dù chúng là lvalues (vì đằng nào cũng sẽ ra khỏi scope hàm)
+- `res` trong hàm `generateResource()` được move mặc dù nó là lvalue, vì trong đặc tả C++, automatic object được trả về từ hàm có thể được move mặc dù chúng là lvalues (vì đằng nào cũng sẽ ra khỏi scope hàm)
 
 - Để tắt copying -> đặt copy constructor và copy assignment operator `= delete` 
 - Tương ứng với tắt move 
@@ -317,6 +317,13 @@ int main() {
 - Khi truyền `std::unique_ptr` cho hàm
 	- Nếu bạn muốn hàm lấy quyền sở hữu con trỏ, pass theo value (vì copy bị disable, cần dùng `std::move`)
 	- Tuy nhiên, hầu hết trường hợp thì bạn không muốn hàm lấy quyền sở hữu, có thể pass theo const ref, tốt hơn là nên pass tài nguyên đó trực tiếp (theo pointer hoặc ref tùy vào nếu null là giá trị hợp lệ)
+
+| Hàm muốn làm gì?                            | Tham số nên là                  |
+| ------------------------------------------- | ------------------------------- |
+| Lấy ownership                               | `std::unique_ptr<T>` (by value) |
+| Có thể sửa object nhưng không lấy ownership | `T&`                            |
+| Chỉ đọc object                              | `const T&`                      |
+| Có thể không có object (`nullptr` hợp lệ)   | `T*` hoặc `const T*`            |
 
 ```cpp
 // This function takes ownership of the Resource, which isn't what we want

@@ -24,7 +24,7 @@
 	- Type là kiểu của dữ liệu, hàm, hay đối tượng kết quả của biểu thức
 	- Value chỉ rằng biểu thức trả về một giá trị, hàm, hay đối tượng 
 
-- Value category bao gồm 5 loại: `lvalue`, `rvalue`, `glvalue`, `prvalue`, `xvalue` 
+- Value category bao gồm 5 loại: `lvalue`, `rvalue`, `glvalue`, `prvalue`, `xvalue` (`glvalue`, `prvalue`, `xvalue` là để dùng cho move semantic)
 
 - **lvalue** là một biểu thức được tính toán thành một đối tượng hoặc hàm có thể xác định được
 - lvalue lại được phân thành 2 loại: **modifiable lvalue** và **non-modifiable lvalue** 
@@ -69,7 +69,7 @@ int main() {
 - Reference không thể được **reseated**, tức là chuyển đối tượng mà nó đang tham chiếu đến 
 
 - Vì lvalue reference chỉ tham chiếu đến được với modifiable lvalue, nên khi muốn tạo tham chiếu đến non-modifiable lvalue, ta cần thêm `const` vào trước ref -> **lvalue reference to const**. Nó sẽ coi object đang được reference đến là const 
-- lvalue reference to const có thể được bind với một rvalue, lúc này mmoojt object tạm thời sẽ được tạo với rvalue đó, và ref sẽ được gắn với object tạm thời đó. Việc này đồng nghĩa là lvalue ref to const giúp **kéo dài thời gian sống** của object tạm thời 
+- lvalue reference to const có thể được bind với một rvalue, lúc này một object tạm thời sẽ được tạo với rvalue đó, và ref sẽ được gắn với object tạm thời đó. Việc này đồng nghĩa là lvalue ref to const giúp **kéo dài thời gian sống** của object tạm thời 
 - lvalue reference to const cũng có thể được bind với các kiểu dữ liệu khác, miễn là chúng có thể chuyển đổi ngầm qua kiểu dữ liệu của ref. Lúc này thì ref đó sẽ tham chiếu đến object tạm thời, chứ không phải object gốc
 ```cpp
 short x{1};
@@ -174,6 +174,18 @@ int main() {
 	- **Low-level const**: Const áp dụng cho object được tham chiếu hoặc trỏ đến e.g. `const int* x`, const được áp dụng vào object được chỉ đến, chứ không phải chính pointer đó 
 
 - Khác với reference, type deduction sẽ không bỏ pointer, có thể dùng `auto*` để dễ đọc hơn nó là dạng pointer
+```cpp
+#include <string>
+
+const std::string& getConstRef(); // some function that returns a reference to const
+
+int main()
+{
+    auto ref1{ getConstRef() }; // std::string (reference dropped, then top-level const dropped from result)
+
+    return 0;
+}
+```
 ```cpp
 #include <string>
 

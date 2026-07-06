@@ -211,7 +211,7 @@ int main(int argc, char* argv[]) {
 }
 ```
 - **captureClause** có thể để trống nếu không cần captures
-- **parameter** có thể để trống nếu không cần thâm số. Nó cũng có thể được bỏ hoàn toàn trừ khi kiểu trả về được chỉ rõ 
+- **parameter** có thể để trống nếu không cần tham số. Nó cũng có thể được bỏ hoàn toàn trừ khi kiểu trả về được chỉ rõ 
 - **returnType** là tùy chọn, nếu bỏ trống thì `auto` sẽ được sử dụng 
 
 - Viết lại hàm sau
@@ -258,7 +258,7 @@ auto containsNut{[](std::string_view str) {
 	- Khi lưu lambda trong biến, sử dụng `auto` là kiểu của biến
 	- Khi pass lambda vào hàm:
 		- C++20: sử dụng `auto` là kiểu của tham số
-		- Nếu không, dùng hàm với tham số là type template, hoặc dùng tham số là `std::function` (hoặc function pointer nếu lambda không có captures)
+		- Nếu không, dùng hàm với tham số là type template, hoặc dùng tham số là `std::function`  function pointer nếu lambda không có captures)
 
 - C++14, lambda có thể dùng `auto` cho tham số, tức là nó là viết tắt của template parameter (C++20 mới mở rộng qua hàm bình thường - abbreviated function template) => có thể làm việc với nhiều kiểu dữ liệu => **generic lambdas**
 
@@ -292,7 +292,7 @@ int main() {
 }
 ```
 
-- Quay lại với code tìm "nut"ta, nếu ta muốn tìm một từ chứa substring bất kỳ
+- Quay lại với code tìm "nut", nếu ta muốn tìm một từ chứa substring bất kỳ
 ```cpp
 int main() {
     std::array<std::string_view, 4> arr{ "apple", "banana", "walnut", "lemon" };
@@ -338,6 +338,9 @@ auto shoot{[ammo]() mutable {
 	--ammo;
 	std::cout << ammo << " shot(s) left.\n";
 }};
+shoot(); // 9 shot(s) left.
+
+std::cout << ammo << " shot(s) left.\n"; // 10 shot(s) left.
 ```
 - Best practice: Tránh mutable lambda. Non-mutable lambdas dễ hiểu hơn cũng như không gây ra một số vấn đề liên quan đến bản sao, hay là vấn đề nguy hiểm hơn khi thêm thực thi song song 
 
@@ -347,6 +350,9 @@ auto shoot{[&ammo]() {
 	--ammo;
 	std::cout << ammo << " shot(s) left.\n";
 }};
+shoot(); // 9 shot(s) left.
+
+std::cout << ammo << " shot(s) left.\n"; // 9 shot(s) left.
 ```
 
 - Để capture nhiều biến, liệt kê + phân cách bằng `,`
@@ -430,8 +436,7 @@ if (found == areas.end()) {
 	std::cout << "Area found :)\n";
 }
 ```
-- Best practice: Chỉ khởi tạo biến trong capture nếu giá trị của chúng ngắn và kiểu của chúng là hiển nhiên, còn không thì nên tạo ở ngoài sau đó capture 
-
+- Best practice: Chỉ khởi tạo biến trong capture nếu giá trị của chúng ngắn và kiểu của chúng là hiển nhiên (**init capture**), còn không thì nên tạo ở ngoài sau đó capture 
 
 - Còn nếu định nghĩa trong hàm lambda thì nó sẽ mang scope của lambda như hàm bình thường. Nếu trùng tên biến ở ngoài capture thì sẽ bị shadowing (kể cả reference)
 ```cpp

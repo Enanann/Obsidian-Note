@@ -102,6 +102,14 @@ void print() {
 }
 ```
 - Có thể thích hợp để dùng với `static_assert()` 
+```cpp
+template<int N>
+class Buffer {
+    static_assert(N % 16 == 0,
+                  "Buffer size must be multiple of 16");
+};
+```
+
 - C++17, `auto` cũng có thể được dùng để compiler tự suy ra kiểu dữ liệu của non-template parameter 
 
 - Để dùng template trong nhiều file khác nhau, có thể định nghĩa luôn template trong header file do template không vi phạm ODR 
